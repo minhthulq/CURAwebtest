@@ -6,16 +6,10 @@
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>ba38fe2f-f81c-4575-87b8-a7c936a0a211</dataFileGUID>
+   <dataFileGUID>11873477-cc8e-40bc-a9c9-8f5d262f5e2a</dataFileGUID>
    <dataSourceUrl>../../OneDrive - quocviet.com.vn/Desktop/TD_Login_CURAwebtest.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>true</isInternalPath>
-   <properties>
-      <entry>
-         <key>readAsString</key>
-         <value>false</value>
-      </entry>
-   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>

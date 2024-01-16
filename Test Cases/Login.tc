@@ -5,15 +5,6 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>51e9e62a-8d96-4450-a683-bb89b0ab5142</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>f18221f6-f69b-4627-9cfb-dfabbe94e533</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/TD_Login</testDataId>
-   </testDataLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
